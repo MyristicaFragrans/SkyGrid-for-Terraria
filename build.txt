@@ -1,6 +1,6 @@
 displayName = SkyGrid for Terraria
 author = Dr. Yamok
-version = 0.1
+version = 0.2
 homepage = https://www.incode-labs.com/terraria/skygrid/
 hideCode = true
 buildIgnore = build.txt, .gitattributes, .gitignore, .git/, .vs/, .idea/, bin/, obj/, Thumbs.db, *.csproj, .cs, .sln, *.md, LICENSE
