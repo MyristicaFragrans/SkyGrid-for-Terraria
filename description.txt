@@ -1,3 +1,3 @@
-Make a SkyGrid! Works with (most) other mods. Modify grid size in Mod Configuration. By Dr. Yamok
+Make a SkyGrid! Works with (most) other mods. Modify grid size in Mod Configuration. By Dr. Yamok. See the website for more information + Discord
 
 This mod is only needed at world generation. You can disable it after your world is done!
