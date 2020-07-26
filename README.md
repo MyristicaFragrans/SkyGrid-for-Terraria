@@ -11,7 +11,7 @@
 * Dangerous World
 * Limited Resources
 * Customizable grid sizes
-* Very tiny size (<15kb)
+* Very tiny size (<18kb)
 * Works with (most) every other mod!
 
 Download in the tModLoader Mod Browser! 
